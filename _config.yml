@@ -1,0 +1,14 @@
+layout_spectrum: 0.24260796327143908
+typography_spectrum: 0.14155542384833097
+color:
+  brandStrength: 0.04245865414850414
+  lightness: 0.41156197851523757
+  saturation: 0.43954327795654535
+  rhythmicContrast: 0.8286543076392263
+  brandColors:
+    - '#FF5335'
+    - '#B39C85'
+    - '#306E73'
+    - '#3B424D'
+    - '#1D181F'
+name: jacktite
